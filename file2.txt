@@ -3,6 +3,12 @@ line 4
 
 file2 pull
 
+<<<<<<< HEAD
 after merge
 
 Done
+=======
+file2 branch bugfix
+
+Merging File2
+>>>>>>> bugfix
