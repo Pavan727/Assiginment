@@ -2,3 +2,5 @@ line1
 line2 
 
 file1 pull
+
+file1 branch bugfix
