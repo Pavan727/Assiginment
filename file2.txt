@@ -4,3 +4,5 @@ line 4
 file2 pull
 
 file2 branch bugfix
+
+Merging File2
